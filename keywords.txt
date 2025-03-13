@@ -1,0 +1,24 @@
+JWT
+ORM Object relational Mapping
+ODM Object Document Mapping
+Protocols:Rules of Communication Ex:http
+DNS(Domaain Name service):Internet phones book
+IPv4 and IPv6
+API (Application programming Interface)
+CRUD
+HTTP Verbs
+    get
+    Post
+    patch/update
+    delete
+ENDpoint
+Staus code
+
+Backend Architectures
+    1.Monolithic
+        Single unified file
+    2.Micro services
+        Applicatiosn are broken down to indpendent services
+    3.Serverless Architectures
+ratelimit
+bot trcking system
